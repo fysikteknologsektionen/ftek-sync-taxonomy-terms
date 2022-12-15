@@ -2,9 +2,10 @@
 /*
 Plugin Name: Sync Taxonomy Terms
 Description: Sync terms between taxonomies ('category' & 'event category')
-Version: 1.0.0
+Version: 1.0.1
 Author: Johan Winther (johwin)
-GitHub Plugin URI: Fysikteknologsektionen/ftek-sync-taxonomy-terms
+GitHub Plugin URI: fysikteknologsektionen/ftek-sync-taxonomy-terms
+Primary Branch: main
 */
 
 // Prevent direct file access
